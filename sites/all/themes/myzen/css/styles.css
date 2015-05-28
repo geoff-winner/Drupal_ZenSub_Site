@@ -113,14 +113,14 @@ img {
 }
 
 .header__logo-image {
-    width:8 00px;
-    height:300px;
+    width:800px;
+    height:350px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .region-sidebar-first {
-    background: #000000;    
+    background: #000000;
     -webkit-box-shadow: 7px 1px 19px 5px rgba(0,0,0,0.45);
     -moz-box-shadow: 7px 1px 19px 5px rgba(0,0,0,0.45);
     box-shadow: 7px 1px 19px 5px rgba(0,0,0,0.45);
